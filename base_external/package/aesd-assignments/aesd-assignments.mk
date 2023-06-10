@@ -8,7 +8,7 @@
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 #This will probably change...
 
-AESD_ASSIGNMENTS_VERSION = 'dcb3b17ad0ec36569144a12e11f0a5c0a8cf366b'
+AESD_ASSIGNMENTS_VERSION = '69e891de890442a7d88672eaacaeae511dc82088'
 
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
